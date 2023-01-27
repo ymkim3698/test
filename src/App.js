@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        테스트 커밋을 위한 텍스트
       </header>
     </div>
   );
